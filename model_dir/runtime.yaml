@@ -1,0 +1,22 @@
+MODEL_ARTIFACT_VERSION: '3.0'
+MODEL_DEPLOYMENT:
+  INFERENCE_CONDA_ENV:
+    INFERENCE_ENV_PATH: oci://conda_envs@frqap2zhtzbe/conda_environments/cpu/mygeneralml_p37_cpu_/1.0/mygeneralml_p37_cpu_v1_0
+    INFERENCE_ENV_SLUG: mygeneralml_p37_cpu_v1_0
+    INFERENCE_ENV_TYPE: published
+    INFERENCE_PYTHON_VERSION: '3.7'
+MODEL_PROVENANCE:
+  PROJECT_OCID: ''
+  TENANCY_OCID: ''
+  TRAINING_CODE:
+    ARTIFACT_DIRECTORY: /home/datascience/workshop-july-2022/model_dir
+  TRAINING_COMPARTMENT_OCID: ''
+  TRAINING_CONDA_ENV:
+    TRAINING_ENV_PATH: oci://conda_envs@frqap2zhtzbe/conda_environments/cpu/mygeneralml_p37_cpu_/1.0/mygeneralml_p37_cpu_v1_0
+    TRAINING_ENV_SLUG: mygeneralml_p37_cpu_v1_0
+    TRAINING_ENV_TYPE: published
+    TRAINING_PYTHON_VERSION: '3.7'
+  TRAINING_REGION: ''
+  TRAINING_RESOURCE_OCID: ''
+  USER_OCID: ''
+  VM_IMAGE_INTERNAL_ID: ''

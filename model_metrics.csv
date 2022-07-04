@@ -1,0 +1,2 @@
+ts_date,model_name,algorithm,accuracy,roc_auc
+2022-07-04 07:47,lgb1,lightgbm,0.9514,0.9939
