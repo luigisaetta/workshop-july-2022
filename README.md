@@ -16,7 +16,7 @@ In this repo I have saved all the NB used during the workshop in July22 (6 Rome,
 ## Feature Types
 
 ADS has a very powerful and interesting framework to specify and check **Feature Types**.
-In the Notebook [Complete Example with Feature Types]() I have used Feature Types to register which features are categorical and which continuous.
+In the Notebook [Complete Example with Feature Types](https://github.com/luigisaetta/workshop-july-2022/blob/main/complete_example_model_creation_deployment_feature_types.ipynb) I have used Feature Types to register which features are categorical and which continuous.
 
 
 
