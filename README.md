@@ -12,6 +12,16 @@ In this repo I have saved all the NB used during the workshop in July22 (6 Rome,
 * Advanced usage of **Model Catalog**
 * **Deploy** a Model directly using ADS (code)
 * Usage of **ADS Feature Types**
+* How-to use **Apache Spark** in a NB session
+* How-to use the OCI Data Science -> **DataFlow** integration 
+
+## Apache Spark 
+
+Apache Spark is a modern and powerful framework for distributed computing.
+Using Apache Spark you can process, in a reasonable amount of time, very large datasets stored on Object Storage, distributing the computations on a cluster.
+In the provided Notebooks we will see:
+* how to use Spark and Spark SQL directly in a Notebook Session, using a dedicated Conda env
+* how to develop and runa Spark JOB using OCI DataFlow.
 
 ## Feature Types
 
